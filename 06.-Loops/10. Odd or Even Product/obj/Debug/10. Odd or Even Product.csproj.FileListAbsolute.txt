@@ -1,0 +1,5 @@
+D:\Homework\Homework\06. Loops\10. Odd or Even Product\bin\Debug\_10.Odd_or_Even_Product.exe.config
+D:\Homework\Homework\06. Loops\10. Odd or Even Product\bin\Debug\_10.Odd_or_Even_Product.exe
+D:\Homework\Homework\06. Loops\10. Odd or Even Product\bin\Debug\_10.Odd_or_Even_Product.pdb
+D:\Homework\Homework\06. Loops\10. Odd or Even Product\obj\Debug\_10.Odd_or_Even_Product.exe
+D:\Homework\Homework\06. Loops\10. Odd or Even Product\obj\Debug\_10.Odd_or_Even_Product.pdb

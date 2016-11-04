@@ -1,0 +1,5 @@
+D:\Homework\Homework\06. Loops\12. Decimal to Binary\bin\Debug\_12.Decimal_to_Binary.exe.config
+D:\Homework\Homework\06. Loops\12. Decimal to Binary\bin\Debug\_12.Decimal_to_Binary.exe
+D:\Homework\Homework\06. Loops\12. Decimal to Binary\bin\Debug\_12.Decimal_to_Binary.pdb
+D:\Homework\Homework\06. Loops\12. Decimal to Binary\obj\Debug\_12.Decimal_to_Binary.exe
+D:\Homework\Homework\06. Loops\12. Decimal to Binary\obj\Debug\_12.Decimal_to_Binary.pdb
