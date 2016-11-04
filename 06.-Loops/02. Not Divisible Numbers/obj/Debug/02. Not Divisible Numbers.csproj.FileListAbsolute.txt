@@ -1,0 +1,5 @@
+D:\Homework\Homework\06. Loops\02. Not Divisible Numbers\bin\Debug\_02.Not_Divisible_Numbers.exe.config
+D:\Homework\Homework\06. Loops\02. Not Divisible Numbers\bin\Debug\_02.Not_Divisible_Numbers.exe
+D:\Homework\Homework\06. Loops\02. Not Divisible Numbers\bin\Debug\_02.Not_Divisible_Numbers.pdb
+D:\Homework\Homework\06. Loops\02. Not Divisible Numbers\obj\Debug\_02.Not_Divisible_Numbers.exe
+D:\Homework\Homework\06. Loops\02. Not Divisible Numbers\obj\Debug\_02.Not_Divisible_Numbers.pdb
