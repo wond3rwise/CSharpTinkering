@@ -1,0 +1,5 @@
+D:\Homework\04. Console-In-and-Out\05. Numbers Comparer\bin\Debug\_05.Numbers_Comparer.exe.config
+D:\Homework\04. Console-In-and-Out\05. Numbers Comparer\bin\Debug\_05.Numbers_Comparer.exe
+D:\Homework\04. Console-In-and-Out\05. Numbers Comparer\bin\Debug\_05.Numbers_Comparer.pdb
+D:\Homework\04. Console-In-and-Out\05. Numbers Comparer\obj\Debug\_05.Numbers_Comparer.exe
+D:\Homework\04. Console-In-and-Out\05. Numbers Comparer\obj\Debug\_05.Numbers_Comparer.pdb

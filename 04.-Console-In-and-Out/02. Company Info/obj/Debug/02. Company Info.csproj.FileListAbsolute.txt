@@ -1,0 +1,6 @@
+D:\Homework\04. Console-In-and-Out\02. Company Info\bin\Debug\_02.Company_Info.exe.config
+D:\Homework\04. Console-In-and-Out\02. Company Info\bin\Debug\_02.Company_Info.exe
+D:\Homework\04. Console-In-and-Out\02. Company Info\bin\Debug\_02.Company_Info.pdb
+D:\Homework\04. Console-In-and-Out\02. Company Info\obj\Debug\02. Company Info.csprojResolveAssemblyReference.cache
+D:\Homework\04. Console-In-and-Out\02. Company Info\obj\Debug\_02.Company_Info.exe
+D:\Homework\04. Console-In-and-Out\02. Company Info\obj\Debug\_02.Company_Info.pdb

@@ -1,0 +1,5 @@
+D:\Homework\04. Console-In-and-Out\06. Quadratic Equation\bin\Debug\_06.Quadratic_Equation.exe.config
+D:\Homework\04. Console-In-and-Out\06. Quadratic Equation\bin\Debug\_06.Quadratic_Equation.exe
+D:\Homework\04. Console-In-and-Out\06. Quadratic Equation\bin\Debug\_06.Quadratic_Equation.pdb
+D:\Homework\04. Console-In-and-Out\06. Quadratic Equation\obj\Debug\_06.Quadratic_Equation.exe
+D:\Homework\04. Console-In-and-Out\06. Quadratic Equation\obj\Debug\_06.Quadratic_Equation.pdb
