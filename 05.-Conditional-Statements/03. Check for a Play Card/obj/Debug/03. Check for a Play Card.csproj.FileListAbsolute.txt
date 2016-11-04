@@ -1,0 +1,5 @@
+D:\Homework\Homework\05. Conditional-Statements\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.exe.config
+D:\Homework\Homework\05. Conditional-Statements\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.exe
+D:\Homework\Homework\05. Conditional-Statements\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.pdb
+D:\Homework\Homework\05. Conditional-Statements\03. Check for a Play Card\obj\Debug\_03.Check_for_a_Play_Card.exe
+D:\Homework\Homework\05. Conditional-Statements\03. Check for a Play Card\obj\Debug\_03.Check_for_a_Play_Card.pdb

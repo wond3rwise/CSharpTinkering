@@ -1,0 +1,5 @@
+D:\Homework\Homework\05. Conditional-Statements\06. Biggest of 5\bin\Debug\_06.Biggest_of_5.exe.config
+D:\Homework\Homework\05. Conditional-Statements\06. Biggest of 5\bin\Debug\_06.Biggest_of_5.exe
+D:\Homework\Homework\05. Conditional-Statements\06. Biggest of 5\bin\Debug\_06.Biggest_of_5.pdb
+D:\Homework\Homework\05. Conditional-Statements\06. Biggest of 5\obj\Debug\_06.Biggest_of_5.exe
+D:\Homework\Homework\05. Conditional-Statements\06. Biggest of 5\obj\Debug\_06.Biggest_of_5.pdb

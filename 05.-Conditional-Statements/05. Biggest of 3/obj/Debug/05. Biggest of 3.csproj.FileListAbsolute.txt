@@ -1,0 +1,6 @@
+D:\Homework\Homework\05. Conditional-Statements\05. Biggest of 3\bin\Debug\_05.Biggest_of_3.exe.config
+D:\Homework\Homework\05. Conditional-Statements\05. Biggest of 3\bin\Debug\_05.Biggest_of_3.exe
+D:\Homework\Homework\05. Conditional-Statements\05. Biggest of 3\bin\Debug\_05.Biggest_of_3.pdb
+D:\Homework\Homework\05. Conditional-Statements\05. Biggest of 3\obj\Debug\05. Biggest of 3.csprojResolveAssemblyReference.cache
+D:\Homework\Homework\05. Conditional-Statements\05. Biggest of 3\obj\Debug\_05.Biggest_of_3.exe
+D:\Homework\Homework\05. Conditional-Statements\05. Biggest of 3\obj\Debug\_05.Biggest_of_3.pdb
