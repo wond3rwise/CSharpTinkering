@@ -1,0 +1,5 @@
+D:\Homework\Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+D:\Homework\Homework\PrintNumbers\bin\Debug\PrintNumbers.exe
+D:\Homework\Homework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+D:\Homework\Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\Homework\Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb

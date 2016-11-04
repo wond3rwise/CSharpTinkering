@@ -1,0 +1,6 @@
+D:\Homework\Homework\Age\bin\Debug\Age.exe.config
+D:\Homework\Homework\Age\bin\Debug\Age.exe
+D:\Homework\Homework\Age\bin\Debug\Age.pdb
+D:\Homework\Homework\Age\obj\Debug\Age.csprojResolveAssemblyReference.cache
+D:\Homework\Homework\Age\obj\Debug\Age.exe
+D:\Homework\Homework\Age\obj\Debug\Age.pdb
