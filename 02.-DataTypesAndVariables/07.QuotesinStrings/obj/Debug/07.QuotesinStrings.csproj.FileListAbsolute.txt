@@ -1,0 +1,6 @@
+D:\Homework\DataTypesAndVariables\07.QuotesinStrings\bin\Debug\07.QuotesinStrings.exe.config
+D:\Homework\DataTypesAndVariables\07.QuotesinStrings\bin\Debug\07.QuotesinStrings.exe
+D:\Homework\DataTypesAndVariables\07.QuotesinStrings\bin\Debug\07.QuotesinStrings.pdb
+D:\Homework\DataTypesAndVariables\07.QuotesinStrings\obj\Debug\07.QuotesinStrings.csprojResolveAssemblyReference.cache
+D:\Homework\DataTypesAndVariables\07.QuotesinStrings\obj\Debug\07.QuotesinStrings.exe
+D:\Homework\DataTypesAndVariables\07.QuotesinStrings\obj\Debug\07.QuotesinStrings.pdb

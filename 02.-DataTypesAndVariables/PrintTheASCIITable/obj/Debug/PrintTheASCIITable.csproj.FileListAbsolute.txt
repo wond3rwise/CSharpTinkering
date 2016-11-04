@@ -1,0 +1,5 @@
+D:\Homework\DataTypesAndVariables\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe.config
+D:\Homework\DataTypesAndVariables\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe
+D:\Homework\DataTypesAndVariables\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.pdb
+D:\Homework\DataTypesAndVariables\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.exe
+D:\Homework\DataTypesAndVariables\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.pdb
