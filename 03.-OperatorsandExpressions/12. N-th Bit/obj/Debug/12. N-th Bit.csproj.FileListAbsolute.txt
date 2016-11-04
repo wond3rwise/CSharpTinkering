@@ -1,0 +1,6 @@
+D:\Homework\OperatorsandExpressions\12. N-th Bit\bin\Debug\_12.N_th_Bit.exe.config
+D:\Homework\OperatorsandExpressions\12. N-th Bit\bin\Debug\_12.N_th_Bit.exe
+D:\Homework\OperatorsandExpressions\12. N-th Bit\bin\Debug\_12.N_th_Bit.pdb
+D:\Homework\OperatorsandExpressions\12. N-th Bit\obj\Debug\_12.N_th_Bit.exe
+D:\Homework\OperatorsandExpressions\12. N-th Bit\obj\Debug\_12.N_th_Bit.pdb
+D:\Homework\OperatorsandExpressions\12. N-th Bit\obj\Debug\12. N-th Bit.csprojResolveAssemblyReference.cache

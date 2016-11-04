@@ -1,0 +1,5 @@
+D:\Homework\OperatorsandExpressions\10. Point in Circle Rectangle\bin\Debug\_10.Point_in_Circle_Rectangle.exe.config
+D:\Homework\OperatorsandExpressions\10. Point in Circle Rectangle\bin\Debug\_10.Point_in_Circle_Rectangle.exe
+D:\Homework\OperatorsandExpressions\10. Point in Circle Rectangle\bin\Debug\_10.Point_in_Circle_Rectangle.pdb
+D:\Homework\OperatorsandExpressions\10. Point in Circle Rectangle\obj\Debug\_10.Point_in_Circle_Rectangle.exe
+D:\Homework\OperatorsandExpressions\10. Point in Circle Rectangle\obj\Debug\_10.Point_in_Circle_Rectangle.pdb

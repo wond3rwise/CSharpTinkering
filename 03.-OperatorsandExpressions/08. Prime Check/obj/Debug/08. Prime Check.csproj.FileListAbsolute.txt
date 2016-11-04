@@ -1,0 +1,6 @@
+D:\Homework\OperatorsandExpressions\08. Prime Check\bin\Debug\_08.Prime_Check.exe.config
+D:\Homework\OperatorsandExpressions\08. Prime Check\bin\Debug\_08.Prime_Check.exe
+D:\Homework\OperatorsandExpressions\08. Prime Check\bin\Debug\_08.Prime_Check.pdb
+D:\Homework\OperatorsandExpressions\08. Prime Check\obj\Debug\_08.Prime_Check.exe
+D:\Homework\OperatorsandExpressions\08. Prime Check\obj\Debug\_08.Prime_Check.pdb
+D:\Homework\OperatorsandExpressions\08. Prime Check\obj\Debug\08. Prime Check.csprojResolveAssemblyReference.cache

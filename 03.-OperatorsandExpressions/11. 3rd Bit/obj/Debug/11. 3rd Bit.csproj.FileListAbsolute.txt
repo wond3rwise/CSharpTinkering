@@ -1,0 +1,6 @@
+D:\Homework\OperatorsandExpressions\11. 3rd Bit\bin\Debug\11. 3rd Bit.exe.config
+D:\Homework\OperatorsandExpressions\11. 3rd Bit\bin\Debug\11. 3rd Bit.exe
+D:\Homework\OperatorsandExpressions\11. 3rd Bit\bin\Debug\11. 3rd Bit.pdb
+D:\Homework\OperatorsandExpressions\11. 3rd Bit\obj\Debug\11. 3rd Bit.csprojResolveAssemblyReference.cache
+D:\Homework\OperatorsandExpressions\11. 3rd Bit\obj\Debug\11. 3rd Bit.exe
+D:\Homework\OperatorsandExpressions\11. 3rd Bit\obj\Debug\11. 3rd Bit.pdb
