@@ -1,0 +1,6 @@
+D:\Homework\Homework\06. Loops\08. Catalan Numbers\bin\Debug\_08.Catalan_Numbers.exe.config
+D:\Homework\Homework\06. Loops\08. Catalan Numbers\obj\Debug\08. Catalan Numbers.csprojResolveAssemblyReference.cache
+D:\Homework\Homework\06. Loops\08. Catalan Numbers\bin\Debug\_08.Catalan_Numbers.exe
+D:\Homework\Homework\06. Loops\08. Catalan Numbers\bin\Debug\_08.Catalan_Numbers.pdb
+D:\Homework\Homework\06. Loops\08. Catalan Numbers\obj\Debug\_08.Catalan_Numbers.exe
+D:\Homework\Homework\06. Loops\08. Catalan Numbers\obj\Debug\_08.Catalan_Numbers.pdb
