@@ -1,0 +1,5 @@
+D:\Homework\04. Console-In-and-Out\11. Interval\bin\Debug\_11.Interval.exe.config
+D:\Homework\04. Console-In-and-Out\11. Interval\bin\Debug\_11.Interval.exe
+D:\Homework\04. Console-In-and-Out\11. Interval\bin\Debug\_11.Interval.pdb
+D:\Homework\04. Console-In-and-Out\11. Interval\obj\Debug\_11.Interval.exe
+D:\Homework\04. Console-In-and-Out\11. Interval\obj\Debug\_11.Interval.pdb
