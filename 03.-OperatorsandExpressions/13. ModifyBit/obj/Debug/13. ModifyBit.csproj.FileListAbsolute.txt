@@ -1,0 +1,6 @@
+D:\Homework\OperatorsandExpressions\13. ModifyBit\bin\Debug\_13.ModifyBit.exe.config
+D:\Homework\OperatorsandExpressions\13. ModifyBit\obj\Debug\13. ModifyBit.csprojResolveAssemblyReference.cache
+D:\Homework\OperatorsandExpressions\13. ModifyBit\bin\Debug\_13.ModifyBit.exe
+D:\Homework\OperatorsandExpressions\13. ModifyBit\bin\Debug\_13.ModifyBit.pdb
+D:\Homework\OperatorsandExpressions\13. ModifyBit\obj\Debug\_13.ModifyBit.exe
+D:\Homework\OperatorsandExpressions\13. ModifyBit\obj\Debug\_13.ModifyBit.pdb

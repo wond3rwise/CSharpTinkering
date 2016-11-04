@@ -1,0 +1,3 @@
+D:\Homework\OperatorsandExpressions\OddorEven\bin\Debug\OddorEven.exe.config
+D:\Homework\OperatorsandExpressions\OddorEven\obj\Debug\OddorEven.exe
+D:\Homework\OperatorsandExpressions\OddorEven\obj\Debug\OddorEven.pdb

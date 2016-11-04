@@ -1,0 +1,5 @@
+D:\Homework\OperatorsandExpressions\TestPrimeCheck\bin\Debug\TestPrimeCheck.exe.config
+D:\Homework\OperatorsandExpressions\TestPrimeCheck\bin\Debug\TestPrimeCheck.exe
+D:\Homework\OperatorsandExpressions\TestPrimeCheck\bin\Debug\TestPrimeCheck.pdb
+D:\Homework\OperatorsandExpressions\TestPrimeCheck\obj\Debug\TestPrimeCheck.exe
+D:\Homework\OperatorsandExpressions\TestPrimeCheck\obj\Debug\TestPrimeCheck.pdb

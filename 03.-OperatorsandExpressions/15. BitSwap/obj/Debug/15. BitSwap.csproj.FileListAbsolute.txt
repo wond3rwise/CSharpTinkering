@@ -1,0 +1,5 @@
+D:\Homework\OperatorsandExpressions\15. BitSwap\bin\Debug\_15.BitSwap.exe.config
+D:\Homework\OperatorsandExpressions\15. BitSwap\bin\Debug\_15.BitSwap.exe
+D:\Homework\OperatorsandExpressions\15. BitSwap\bin\Debug\_15.BitSwap.pdb
+D:\Homework\OperatorsandExpressions\15. BitSwap\obj\Debug\_15.BitSwap.exe
+D:\Homework\OperatorsandExpressions\15. BitSwap\obj\Debug\_15.BitSwap.pdb
