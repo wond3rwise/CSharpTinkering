@@ -1,0 +1,5 @@
+D:\Homework\04. Console-In-and-Out\08. Numbers from 1 to N\bin\Debug\_08.Numbers_from_1_to_N.exe.config
+D:\Homework\04. Console-In-and-Out\08. Numbers from 1 to N\bin\Debug\_08.Numbers_from_1_to_N.exe
+D:\Homework\04. Console-In-and-Out\08. Numbers from 1 to N\bin\Debug\_08.Numbers_from_1_to_N.pdb
+D:\Homework\04. Console-In-and-Out\08. Numbers from 1 to N\obj\Debug\_08.Numbers_from_1_to_N.exe
+D:\Homework\04. Console-In-and-Out\08. Numbers from 1 to N\obj\Debug\_08.Numbers_from_1_to_N.pdb

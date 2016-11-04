@@ -1,0 +1,5 @@
+D:\Homework\04. Console-In-and-Out\10. Fibonacci Numbers\bin\Debug\_10.Fibonacci_Numbers.exe.config
+D:\Homework\04. Console-In-and-Out\10. Fibonacci Numbers\bin\Debug\_10.Fibonacci_Numbers.exe
+D:\Homework\04. Console-In-and-Out\10. Fibonacci Numbers\bin\Debug\_10.Fibonacci_Numbers.pdb
+D:\Homework\04. Console-In-and-Out\10. Fibonacci Numbers\obj\Debug\_10.Fibonacci_Numbers.exe
+D:\Homework\04. Console-In-and-Out\10. Fibonacci Numbers\obj\Debug\_10.Fibonacci_Numbers.pdb

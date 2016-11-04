@@ -1,0 +1,5 @@
+D:\Homework\04. Console-In-and-Out\09. Sum of n Numbers\bin\Debug\_09.Sum_of_n_Numbers.exe.config
+D:\Homework\04. Console-In-and-Out\09. Sum of n Numbers\bin\Debug\_09.Sum_of_n_Numbers.exe
+D:\Homework\04. Console-In-and-Out\09. Sum of n Numbers\bin\Debug\_09.Sum_of_n_Numbers.pdb
+D:\Homework\04. Console-In-and-Out\09. Sum of n Numbers\obj\Debug\_09.Sum_of_n_Numbers.exe
+D:\Homework\04. Console-In-and-Out\09. Sum of n Numbers\obj\Debug\_09.Sum_of_n_Numbers.pdb

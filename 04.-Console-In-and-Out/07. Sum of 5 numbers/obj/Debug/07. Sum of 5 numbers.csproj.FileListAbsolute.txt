@@ -1,0 +1,5 @@
+D:\Homework\04. Console-In-and-Out\07. Sum of 5 numbers\bin\Debug\_07.Sum_of_5_numbers.exe.config
+D:\Homework\04. Console-In-and-Out\07. Sum of 5 numbers\bin\Debug\_07.Sum_of_5_numbers.exe
+D:\Homework\04. Console-In-and-Out\07. Sum of 5 numbers\bin\Debug\_07.Sum_of_5_numbers.pdb
+D:\Homework\04. Console-In-and-Out\07. Sum of 5 numbers\obj\Debug\_07.Sum_of_5_numbers.exe
+D:\Homework\04. Console-In-and-Out\07. Sum of 5 numbers\obj\Debug\_07.Sum_of_5_numbers.pdb
