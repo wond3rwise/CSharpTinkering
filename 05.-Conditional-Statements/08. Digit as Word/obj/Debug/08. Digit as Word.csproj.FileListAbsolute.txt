@@ -1,0 +1,5 @@
+D:\Homework\Homework\05. Conditional-Statements\08. Digit as Word\bin\Debug\_08.Digit_as_Word.exe.config
+D:\Homework\Homework\05. Conditional-Statements\08. Digit as Word\bin\Debug\_08.Digit_as_Word.exe
+D:\Homework\Homework\05. Conditional-Statements\08. Digit as Word\bin\Debug\_08.Digit_as_Word.pdb
+D:\Homework\Homework\05. Conditional-Statements\08. Digit as Word\obj\Debug\_08.Digit_as_Word.exe
+D:\Homework\Homework\05. Conditional-Statements\08. Digit as Word\obj\Debug\_08.Digit_as_Word.pdb
