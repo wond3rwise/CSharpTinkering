@@ -1,0 +1,6 @@
+D:\Homework\OperatorsandExpressions\06. Four digits\bin\Debug\_06.Four_digits.exe.config
+D:\Homework\OperatorsandExpressions\06. Four digits\bin\Debug\_06.Four_digits.exe
+D:\Homework\OperatorsandExpressions\06. Four digits\bin\Debug\_06.Four_digits.pdb
+D:\Homework\OperatorsandExpressions\06. Four digits\obj\Debug\06. Four digits.csprojResolveAssemblyReference.cache
+D:\Homework\OperatorsandExpressions\06. Four digits\obj\Debug\_06.Four_digits.exe
+D:\Homework\OperatorsandExpressions\06. Four digits\obj\Debug\_06.Four_digits.pdb

@@ -1,0 +1,6 @@
+D:\Homework\OperatorsandExpressions\02. MoonGravity\bin\Debug\_02.MoonGravity.exe.config
+D:\Homework\OperatorsandExpressions\02. MoonGravity\bin\Debug\_02.MoonGravity.exe
+D:\Homework\OperatorsandExpressions\02. MoonGravity\bin\Debug\_02.MoonGravity.pdb
+D:\Homework\OperatorsandExpressions\02. MoonGravity\obj\Debug\02. MoonGravity.csprojResolveAssemblyReference.cache
+D:\Homework\OperatorsandExpressions\02. MoonGravity\obj\Debug\_02.MoonGravity.exe
+D:\Homework\OperatorsandExpressions\02. MoonGravity\obj\Debug\_02.MoonGravity.pdb

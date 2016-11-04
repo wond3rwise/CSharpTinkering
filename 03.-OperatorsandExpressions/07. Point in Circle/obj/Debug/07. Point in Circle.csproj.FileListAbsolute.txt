@@ -1,0 +1,6 @@
+D:\Homework\OperatorsandExpressions\07. Point in Circle\bin\Debug\_07.Point_in_Circle.exe.config
+D:\Homework\OperatorsandExpressions\07. Point in Circle\bin\Debug\_07.Point_in_Circle.exe
+D:\Homework\OperatorsandExpressions\07. Point in Circle\bin\Debug\_07.Point_in_Circle.pdb
+D:\Homework\OperatorsandExpressions\07. Point in Circle\obj\Debug\07. Point in Circle.csprojResolveAssemblyReference.cache
+D:\Homework\OperatorsandExpressions\07. Point in Circle\obj\Debug\_07.Point_in_Circle.exe
+D:\Homework\OperatorsandExpressions\07. Point in Circle\obj\Debug\_07.Point_in_Circle.pdb

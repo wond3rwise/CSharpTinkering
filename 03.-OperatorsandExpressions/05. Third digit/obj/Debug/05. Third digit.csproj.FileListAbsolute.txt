@@ -1,0 +1,6 @@
+D:\Homework\OperatorsandExpressions\05. Third digit\bin\Debug\_05.Third_digit.exe.config
+D:\Homework\OperatorsandExpressions\05. Third digit\bin\Debug\_05.Third_digit.exe
+D:\Homework\OperatorsandExpressions\05. Third digit\bin\Debug\_05.Third_digit.pdb
+D:\Homework\OperatorsandExpressions\05. Third digit\obj\Debug\05. Third digit.csprojResolveAssemblyReference.cache
+D:\Homework\OperatorsandExpressions\05. Third digit\obj\Debug\_05.Third_digit.exe
+D:\Homework\OperatorsandExpressions\05. Third digit\obj\Debug\_05.Third_digit.pdb
